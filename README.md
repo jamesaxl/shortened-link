@@ -60,5 +60,7 @@
 ```
 * then you open http://localhost
 
+## Примечание
 
+* Я push с директора `vendor`, чтобы использовать `sail`
 
