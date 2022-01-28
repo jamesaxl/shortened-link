@@ -1,0 +1,24 @@
+{
+    "login.not_correct": "Check your login and password",
+    "user.registered" : "User has been registered",
+    "user.logged_out" : "User has been logged out",
+    "link.generated" : "Link ha been generated",
+    "link.deleted" : "Link has been deleted",
+    "not_found" : "Not found",
+    "internal_error" : "Something wrong please try later",
+    "unauthorized" : "Unauthorized",
+
+    "email.required" : "The email field is required",
+    "email.email" : "The email field must be a valid email",
+    "email.unique" : "The email has already been taken",
+    "email.max" : "The email max length must be less than 255",
+
+    "password.required" : "The password field is required",
+    "password.confirmed" : "The password is not match",
+    "password.max" : "The password max length must be less than 255",
+    "password.min" : "The password min length must be greater or equal 8",
+
+    "address.required" : "The field address is required",
+    "address.url" : "The field address is not valid url",
+    "address.max" : "The url max length must be less than 255"
+}
