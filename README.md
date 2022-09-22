@@ -7,8 +7,8 @@
 > composer install
 > php artisan migrate
 > php artisan passport:install
-> php artisan npm install
-> php artisan npm run dev
+> npm install
+> npm run dev
 > php artisan serve
 ```
 * вы открываете http://localhost:8000
@@ -22,10 +22,10 @@
 ```
 * Откройте вторую вкладку терминала::
 ```
-> ./vendore/bin/sail artisan migrate
-> ./vendore/bin/sail artisan passport:install
-> ./vendore/bin/sail artisan npm install
-> ./vendore/bin/sail artisan npm run dev
+> ./vendor/bin/sail artisan migrate
+> ./vendor/bin/sail artisan passport:install
+> ./vendor/bin/sail npm install
+> ./vendor/bin/sail npm run dev
 ```
 * вы открываете http://localhost
 
@@ -38,8 +38,8 @@
 > composer install
 > php artisan migrate
 > php artisan passport:install
-> php artisan npm install
-> php artisan npm run dev
+> npm install
+> npm run dev
 > php artisan serve
 ```
 * then you open http://localhost:8000
@@ -53,10 +53,10 @@
 * Open a second terminal tab and you run:
 
 ```
-> ./vendore/bin/sail artisan migrate
-> ./vendore/bin/sail artisan passport:install
-> ./vendore/bin/sail artisan npm install
-> ./vendore/bin/sail artisan npm run dev
+> ./vendor/bin/sail artisan migrate
+> ./vendor/bin/sail artisan passport:install
+> ./vendor/bin/sail npm install
+> ./vendor/bin/sail npm run dev
 ```
 * then you open http://localhost
 
